@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-merge confilct
-=======
-aufgabe4 irgentwas
->>>>>>> pascal
+das ist ein Überfall
+Bitte geben sie mir eine Merge Konflikt
